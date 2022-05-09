@@ -1,7 +1,6 @@
 package perceptron_digitos;
 
 import java.awt.Color;
-import javax.swing.JOptionPane;
 
 public class InterfacePerceptron extends javax.swing.JFrame {
 
